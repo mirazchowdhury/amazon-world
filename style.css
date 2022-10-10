@@ -1,7 +1,6 @@
 body {
     background-color: rgb(114, 223, 208);
     height: 70vh;
-    font-family: popins;
 }
 
 .amazon-bg-light {
@@ -16,6 +15,8 @@ body {
 
 .amazon-btn-warning {
     background-color: darkslateblue;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px 2px #000;
 }
 
 .amazon-bg-dark {
