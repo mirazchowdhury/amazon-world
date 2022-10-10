@@ -1,5 +1,4 @@
 body {
-    background: linear-gradient(-100deg, rgb(236, 94, 170) 50%, rgb(230, 139, 187) 50%);
     height: 70vh;
     font-family: popins;
 }
@@ -11,7 +10,7 @@ body {
     display: block;
     text-align: center;
     padding: 40% 5%;
-    background: #262626;
+    background: rgb(146, 31, 223);
     color: #fff;
     border-radius: 15px;
 }
