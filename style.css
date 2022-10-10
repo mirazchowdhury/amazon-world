@@ -1,17 +1,35 @@
 body {
+    background-color: rgb(114, 223, 208);
     height: 70vh;
     font-family: popins;
 }
 
+.amazon-bg-light {
+    background-color: rgb(161, 223, 181);
+
+}
+
+.amazon-bg-info {
+    background-color: aquamarine;
+
+}
+
+.amazon-btn-warning {
+    background-color: darkslateblue;
+}
+
+.amazon-bg-dark {
+    background-color: darkslategrey;
+}
 
 .img-text {
     width: 100%;
     height: 300px;
-    display: block;
+    display: inline-block;
     text-align: center;
     padding: 40% 5%;
-    background: rgb(146, 31, 223);
-    color: #fff;
+    background: rgb(37, 212, 154);
+    color: rgb(0, 0, 0);
     border-radius: 15px;
 }
 
