@@ -11,12 +11,13 @@ body {
 }
 
 .amazon-bg-info {
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
+    background-color: lightcyan;
 
 }
 
 .amazon-btn-warning {
-    background-color: darkslateblue;
+    background-color: rgba(129, 209, 198, 0.863);
     box-shadow: 2px 2px 2px 2px #000;
 }
 
